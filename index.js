@@ -29,6 +29,7 @@ var ITEM_FIELDS = [
   'link',
   'pubDate',
   'author',
+  'dc:author',
   'content:encoded',
   'enclosure'
 ];
@@ -95,11 +96,7 @@ var parseAtomFeed = function(xmlObj, callback) {
   callback(null, json);
 }
 
-var parseRSS1 = function(xmlObj, callback) {
-  callback("RSS 1.0 parsing not yet implemented.")
-}
-
-var parseRSS2 = function(xmlObj, callback) {
+var parseRSS = function(xmlObj, callback) {
   var json = {feed: {entries: []}};
   var channel = xmlObj.rss.channel[0];
   if (channel['atom:link']) json.feed.feedUrl = channel['atom:link'][0].$.href;
@@ -182,10 +179,10 @@ Parser.parseString = function(xml, callback) {
     if (err) return callback(err);
     if (result.feed) {
       return parseAtomFeed(result, callback)
-    } else if (result.rss && result.rss.$.version && result.rss.$.version.indexOf('2') === 0) {
-      return parseRSS2(result, callback);
+    } else if (result.rss) {
+      return parseRSS(result, callback);
     } else {
-      return parseRSS1(result, callback);
+      return callback('XML must be an ATOM or RSS feed.')
     }
   });
 }

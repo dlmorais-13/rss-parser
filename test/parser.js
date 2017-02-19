@@ -31,7 +31,7 @@ describe('Parser', function() {
 
   it('should not parse craigslist (RSS 1.0)', function(done) {
     Parser.parseFile(__dirname + '/input/craigslist.rss', function(err, parsed) {
-      Expect(err.indexOf('not yet implemented')).to.not.equal(-1);
+      Expect(err).to.equal('XML must be an ATOM or RSS feed.');
       done();
     })
   })

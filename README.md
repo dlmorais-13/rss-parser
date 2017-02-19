@@ -1,15 +1,8 @@
 # rss-parser
 
 ## Installation
-
-### NodeJS
 ```bash
-npm install --save rss-parser
-```
-
-### Web
-```bash
-bower install --save rss-parser
+npm install --save dlm-rss-parser
 ```
 
 ## Usage
@@ -19,7 +12,7 @@ Check out the output format in [test/output/reddit.json](test/output/reddit.json
 
 ### NodeJS
 ```js
-var parser = require('rss-parser');
+var parser = require('dlm-rss-parser');
 
 parser.parseURL('https://www.reddit.com/.rss', function(err, parsed) {
   console.log(parsed.feed.title);
@@ -31,7 +24,7 @@ parser.parseURL('https://www.reddit.com/.rss', function(err, parsed) {
 
 ### Web
 ```html
-<script src="/bower_components/rss-parser/dist/rss-parser.js"></script>
+<script src="node_modules/dlm-rss-parser/dist/dlm-rss-parser.js"></script>
 <script>
 RSSParser.parseURL('https://www.reddit.com/.rss', function(err, parsed) {
   console.log(parsed.feed.title);

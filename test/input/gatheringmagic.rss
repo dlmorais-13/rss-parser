@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:series="http://organizeseries.com/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0/play-podcasts.xsd"
+>
+
+<channel>
+	<title>GatheringMagic.com</title>
+	<atom:link href="http://www.gatheringmagic.com/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.gatheringmagic.com</link>
+	<description>Magic: The Gathering Articles, Strategy, Podcasts and Video</description>
+	<lastBuildDate>Sat, 18 Feb 2017 17:00:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
+<!-- podcast_generator="Blubrry PowerPress/7.0.3" mode="advanced" feedslug="feed" -->
+	<itunes:summary>Gathering Magic is a weekly video podcast about Magic: the Gathering. Strategy, decks, limited and unbridled awesome.</itunes:summary>
+	<itunes:author>GatheringMagic.com</itunes:author>
+	<itunes:image href="http://www.mananation.com/images/itunes/mn-itunes-300.jpg" />
+	<itunes:owner>
+		<itunes:name>GatheringMagic.com</itunes:name>
+		<itunes:email>stybs@gatheringmagic.com</itunes:email>
+	</itunes:owner>
+	<managingEditor>stybs@gatheringmagic.com (GatheringMagic.com)</managingEditor>
+	<copyright>2016</copyright>
+	<itunes:subtitle>The weekly video podcast about Magic the Gathering, Gathering Magic.</itunes:subtitle>
+	<image>
+		<title>GatheringMagic.com</title>
+		<url>http://www.mananation.com/images/itunes/mn-itunes-144.jpg</url>
+		<link>http://www.gatheringmagic.com</link>
+	</image>
+	<itunes:category text="Games &amp; Hobbies">
+		<itunes:category text="Other Games" />
+	</itunes:category>
+	<item>
+		<title>Gathering Magic Week in Review: 2.13-2.17</title>
+		<link>http://www.gatheringmagic.com/robertburrows-02182017-gathering-magic-week-in-review-2-13-2-17/</link>
+		<pubDate>Sat, 18 Feb 2017 17:00:32 +0000</pubDate>
+		<dc:creator><![CDATA[Robert Burrows]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Writing]]></category>
+		<category><![CDATA[Announcements]]></category>
+		<category><![CDATA[Authors]]></category>
+		<category><![CDATA[Gathering Magic]]></category>
+		<category><![CDATA[Robert Burrows]]></category>
+		<category><![CDATA[Video]]></category>
+		<category><![CDATA[Week in Review]]></category>
+		<category><![CDATA[YouTube]]></category>
+
+		<guid isPermaLink="false">http://www.gatheringmagic.com/?p=73101</guid>
+		<description><![CDATA[<p><a href="http://www.gatheringmagic.com/robertburrows-02182017-gathering-magic-week-in-review-2-13-2-17/"><img src="http://s3.gatheringmagic.com.s3.amazonaws.com/uploads/_AuthorImages/weekinreview_222x180.jpg" style="border: 0px; float: left; margin: 0px 10px 10px 0px;" /></a></p>Articles and podcasts that are hot to trot, this week in the Gathering Magic Week in Review!]]></description>
+		</item>
+		<item>
+		<title>Update on Magic Digital Next</title>
+		<link>http://www.gatheringmagic.com/alexullman-news-02172017-update-on-magic-digital-next/</link>
+		<pubDate>Fri, 17 Feb 2017 16:20:06 +0000</pubDate>
+		<dc:creator><![CDATA[Alex Ullman]]></dc:creator>
+				<category><![CDATA[Magic News]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[#MTGNews]]></category>
+		<category><![CDATA[Magic Digital Next]]></category>
+		<category><![CDATA[Magic Online]]></category>
+		<category><![CDATA[Mishra's Photoshop]]></category>
+		<category><![CDATA[MTGO]]></category>
+
+		<guid isPermaLink="false">http://www.gatheringmagic.com/?p=73098</guid>
+		<description><![CDATA[<p><a href="http://www.gatheringmagic.com/alexullman-news-02172017-update-on-magic-digital-next/"><img src="http://s3.gatheringmagic.com.s3.amazonaws.com/uploads/2012/12/22/MTGO_222x180.jpg" style="border: 0px; float: left; margin: 0px 10px 10px 0px;" /></a></p>We are getting our first tidbits on Magic Digital Next. ]]></description>
+		</item>
+		<item>
+		<title>Bringing Next Level Energy to Coal Country</title>
+		<link>http://www.gatheringmagic.com/benfriedman-02172016-bringing-next-level-energy-to-coal-country/</link>
+		<pubDate>Fri, 17 Feb 2017 16:00:21 +0000</pubDate>
+		<dc:creator><![CDATA[Ben Friedman]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Constructed]]></category>
+		<category><![CDATA[Standard]]></category>
+		<category><![CDATA[Aether Revolt Standard]]></category>
+		<category><![CDATA[Analysis]]></category>
+		<category><![CDATA[Ben Friedman]]></category>
+		<category><![CDATA[Decklist]]></category>
+		<category><![CDATA[Jund Energy]]></category>
+		<category><![CDATA[Metagame]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false">http://www.gatheringmagic.com/?p=73069</guid>
+		<description><![CDATA[<p><a href="http://www.gatheringmagic.com/benfriedman-02172016-bringing-next-level-energy-to-coal-country/"><img src="http://s3.gatheringmagic.com.s3.amazonaws.com/uploads/_AuthorImages/BenFriedman_222x180.jpg" style="border: 0px; float: left; margin: 0px 10px 10px 0px;" /></a></p>Ben fires up the generator and brings a modified version of B/G Energy to the party.]]></description>
+		</item>
+		<item>
+		<title>It’s a Marvelous Day!</title>
+		<link>http://www.gatheringmagic.com/aliaintrazi-02172017-its-a-marvelous-day/</link>
+		<pubDate>Fri, 17 Feb 2017 15:59:49 +0000</pubDate>
+		<dc:creator><![CDATA[Ali Aintrazi]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Constructed]]></category>
+		<category><![CDATA[Standard]]></category>
+		<category><![CDATA[Aether Revolt Standard]]></category>
+		<category><![CDATA[Aetherworks Marvel]]></category>
+		<category><![CDATA[Ali Aintrazi]]></category>
+		<category><![CDATA[Analysis]]></category>
+		<category><![CDATA[Decklist]]></category>
+		<category><![CDATA[Metagame]]></category>
+		<category><![CDATA[Strategy]]></category>
+
+		<guid isPermaLink="false">http://www.gatheringmagic.com/?p=73072</guid>
+		<description><![CDATA[<p><a href="http://www.gatheringmagic.com/aliaintrazi-02172017-its-a-marvelous-day/"><img src="http://s3.gatheringmagic.com.s3.amazonaws.com/uploads/_AuthorImages/AliAintrazi_222x180.jpg" style="border: 0px; float: left; margin: 0px 10px 10px 0px;" /></a></p>Ali pulls Aetherworks Marvel out of the rubble and dusts it off for a new chance in Standard.]]></description>
+		</item>
+		<item>
+		<title>Count Your Blessings</title>
+		<link>http://www.gatheringmagic.com/carlosgutierrez-02172017-count-your-blessings/</link>
+		<pubDate>Fri, 17 Feb 2017 15:58:22 +0000</pubDate>
+		<dc:creator><![CDATA[Carlos Gutierrez]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Constructed]]></category>
+		<category><![CDATA[Modern]]></category>
+		<category><![CDATA[Decklist]]></category>
+
+		<guid isPermaLink="false">http://www.gatheringmagic.com/?p=73080</guid>
+		<description><![CDATA[<p><a href="http://www.gatheringmagic.com/carlosgutierrez-02172017-count-your-blessings/"><img src="http://s3.gatheringmagic.com.s3.amazonaws.com/uploads/_AuthorImages/DailyDeckList_222x180.jpg" style="border: 0px; float: left; margin: 0px 10px 10px 0px;" /></a></p>Sufficiently powerful Standard cards sometimes make it in Modern. Today's decklist is no exception!]]></description>
+		</item>
+		<item>
+		<title>Snack Time #49: All About that Bolas</title>
+		<link>http://www.gatheringmagic.com/snacktimewithmikeandant-02172017-snack-time-49-all-about-that-bolas/</link>
+		<pubDate>Fri, 17 Feb 2017 15:57:10 +0000</pubDate>
+		<dc:creator><![CDATA[Snack Time with Mike and Ant]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Snack Time with Mike and Ant]]></category>
+		<category><![CDATA[Vorthos]]></category>
+		<category><![CDATA[Ant Tessitore]]></category>
+		<category><![CDATA[Audio]]></category>
+		<category><![CDATA[Creative]]></category>
+		<category><![CDATA[flavor]]></category>
+		<category><![CDATA[Mike Linnemann]]></category>
+		<category><![CDATA[Nicol Bolas]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[Snack Time Podcast]]></category>
+
+		<guid isPermaLink="false">http://www.gatheringmagic.com/?p=73065</guid>
+		<description><![CDATA[<p><a href="http://www.gatheringmagic.com/snacktimewithmikeandant-02172017-snack-time-49-all-about-that-bolas/"><img src="http://s3.gatheringmagic.com.s3.amazonaws.com/uploads/_AuthorImages/SnackTimeWithMikeAndAnt_222x180.jpg" style="border: 0px; float: left; margin: 0px 10px 10px 0px;" /></a></p>It's all Nicol Bolas all the time on this episode of Snack Time with Mike and Ant!]]></description>
+<enclosure url="http://media.blubrry.com/themagicstudio/s3.gatheringmagic.com.s3.amazonaws.com/uploads/2017/02/17/ST_49.mp3" length="49567700" type="audio/mpeg" />
+		<itunes:subtitle>It&#039;s all Nicol Bolas all the time on this episode of Snack Time with Mike and Ant!</itunes:subtitle>
+		<itunes:summary>It&#039;s all Nicol Bolas all the time on this episode of Snack Time with Mike and Ant!</itunes:summary>
+		<itunes:author>GatheringMagic.com</itunes:author>
+		<itunes:duration>41:20</itunes:duration>
+	</item>
+		<item>
+		<title>Beat Downs with the Boz!: Standard Mardu Vehicles</title>
+		<link>http://www.gatheringmagic.com/andrewboswell-02172017-beat-downs-with-the-boz-standard-mardu-vehicles/</link>
+		<pubDate>Fri, 17 Feb 2017 15:56:23 +0000</pubDate>
+		<dc:creator><![CDATA[Andrew Boswell]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Constructed]]></category>
+		<category><![CDATA[Standard]]></category>
+		<category><![CDATA[Video]]></category>
+		<category><![CDATA[Aether Revolt Standard]]></category>
+		<category><![CDATA[Andrew Boswell]]></category>
+		<category><![CDATA[Decklist]]></category>
+		<category><![CDATA[Mardu Vehicles]]></category>
+		<category><![CDATA[YouTube]]></category>
+
+		<guid isPermaLink="false">http://www.gatheringmagic.com/?p=73077</guid>
+		<description><![CDATA[<p><a href="http://www.gatheringmagic.com/andrewboswell-02172017-beat-downs-with-the-boz-standard-mardu-vehicles/"><img src="http://s3.amazonaws.com/s3.gatheringmagic.com/uploads/_AuthorImages/BeatDownsWithTheBoz-222x180.jpg" style="border: 0px; float: left; margin: 0px 10px 10px 0px;" /></a></p>Andrew Boswell gets in the fast lane and pilots the most aggressive deck in Standard!]]></description>
+		</item>
+		<item>
+		<title>The Girlfriend Bracket #91: The Medium Bucks</title>
+		<link>http://www.gatheringmagic.com/thegirlfriendbracket-02172017-the-girlfriend-bracket-91-the-medium-bucks/</link>
+		<pubDate>Fri, 17 Feb 2017 15:55:55 +0000</pubDate>
+		<dc:creator><![CDATA[The Girlfriend Bracket]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Community]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[The Girlfriend Bracket]]></category>
+		<category><![CDATA[Audio]]></category>
+		<category><![CDATA[Discussion]]></category>
+		<category><![CDATA[Emma Handy]]></category>
+		<category><![CDATA[Erin Campbell]]></category>
+		<category><![CDATA[Hallie Santo]]></category>
+		<category><![CDATA[Katie Neal]]></category>
+		<category><![CDATA[Kriz Schultz]]></category>
+		<category><![CDATA[podcast]]></category>
+
+		<guid isPermaLink="false">http://www.gatheringmagic.com/?p=73093</guid>
+		<description><![CDATA[<p><a href="http://www.gatheringmagic.com/thegirlfriendbracket-02172017-the-girlfriend-bracket-91-the-medium-bucks/"><img src="http://s3.gatheringmagic.com.s3.amazonaws.com/uploads/podcasts/TGB/gfb_new_222x180.png" style="border: 0px; float: left; margin: 0px 10px 10px 0px;" /></a></p>The Girlfriend Bracket welcomes special guest Emma Handy to talk about the latest in Magic!]]></description>
+<enclosure url="http://media.blubrry.com/themagicstudio/s3.gatheringmagic.com.s3.amazonaws.com/uploads/2017/02/17/the-girlfriend-bracket-91-the-medium-bucks.mp3" length="57702608" type="audio/mpeg" />
+		<itunes:subtitle>The Girlfriend Bracket welcomes special guest Emma Handy to talk about the latest in Magic!</itunes:subtitle>
+		<itunes:summary>The Girlfriend Bracket welcomes special guest Emma Handy to talk about the latest in Magic!</itunes:summary>
+		<itunes:author>GatheringMagic.com</itunes:author>
+		<itunes:duration>1:00:06</itunes:duration>
+	</item>
+		<item>
+		<title>Graveborn Musings: Rites of Passage</title>
+		<link>http://www.gatheringmagic.com/darylbockett-02162017-graveborn-musings-rites-of-passage/</link>
+		<pubDate>Thu, 16 Feb 2017 16:00:51 +0000</pubDate>
+		<dc:creator><![CDATA[Daryl Bockett]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Casual]]></category>
+		<category><![CDATA[Commander]]></category>
+		<category><![CDATA[Multiplayer]]></category>
+		<category><![CDATA[Athreos God of Passage]]></category>
+		<category><![CDATA[Daryl Bockett]]></category>
+		<category><![CDATA[Decklist]]></category>
+		<category><![CDATA[Graveborn Musings]]></category>
+		<category><![CDATA[Orzhov]]></category>
+		<category><![CDATA[W/B]]></category>
+
+		<guid isPermaLink="false">http://www.gatheringmagic.com/?p=73039</guid>
+		<description><![CDATA[<p><a href="http://www.gatheringmagic.com/darylbockett-02162017-graveborn-musings-rites-of-passage/"><img src="http://s3.gatheringmagic.com.s3.amazonaws.com/uploads/_AuthorImages/DarylBockett_222x180.jpg" style="border: 0px; float: left; margin: 0px 10px 10px 0px;" /></a></p>Daryl's latest musing is equal parts Commander deck tech and lesson in multiplayer politics!]]></description>
+		</item>
+		<item>
+		<title>Baby, You Can Drive My &#8216;Kar</title>
+		<link>http://www.gatheringmagic.com/jasonalt-02162017-baby-you-can-drive-my-kar/</link>
+		<pubDate>Thu, 16 Feb 2017 15:59:10 +0000</pubDate>
+		<dc:creator><![CDATA[Jason Alt]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Casual]]></category>
+		<category><![CDATA[Commander]]></category>
+		<category><![CDATA[75% Commander]]></category>
+		<category><![CDATA[75% EDH]]></category>
+		<category><![CDATA[Decklist]]></category>
+		<category><![CDATA[EDH]]></category>
+		<category><![CDATA[Jason Alt]]></category>
+		<category><![CDATA[Mono-Green]]></category>
+		<category><![CDATA[Rishkar Peema Renegade]]></category>
+
+		<guid isPermaLink="false">http://www.gatheringmagic.com/?p=73036</guid>
+		<description><![CDATA[<p><a href="http://www.gatheringmagic.com/jasonalt-02162017-baby-you-can-drive-my-kar/"><img src="http://s3.gatheringmagic.com.s3.amazonaws.com/uploads/_AuthorImages/JasonAlt_222x180.jpg" style="border: 0px; float: left; margin: 0px 10px 10px 0px;" /></a></p>Hop in and go for a ride in Jason's spin on one of the new legends from Aether Revolt!]]></description>
+		</item>
+		<item>
+		<title>Control the Means of Production</title>
+		<link>http://www.gatheringmagic.com/carlosgutierrez-02162017-control-the-means-of-production/</link>
+		<pubDate>Thu, 16 Feb 2017 15:58:04 +0000</pubDate>
+		<dc:creator><![CDATA[Carlos Gutierrez]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Constructed]]></category>
+		<category><![CDATA[Standard]]></category>
+		<category><![CDATA[Aether Revolt Standard]]></category>
+		<category><![CDATA[Carlos Gutierrez]]></category>
+		<category><![CDATA[Decklist]]></category>
+
+		<guid isPermaLink="false">http://www.gatheringmagic.com/?p=73051</guid>
+		<description><![CDATA[<p><a href="http://www.gatheringmagic.com/carlosgutierrez-02162017-control-the-means-of-production/"><img src="http://s3.gatheringmagic.com.s3.amazonaws.com/uploads/_AuthorImages/DailyDeckList_222x180.jpg" style="border: 0px; float: left; margin: 0px 10px 10px 0px;" /></a></p>Take control of the means of production with today's artifact-heavy Standard decklist!]]></description>
+		</item>
+		<item>
+		<title>Chandra&#8217;s Story: Diraden</title>
+		<link>http://www.gatheringmagic.com/samkeeper-02162017-chandras-story-diraden/</link>
+		<pubDate>Thu, 16 Feb 2017 15:57:27 +0000</pubDate>
+		<dc:creator><![CDATA[Sam Keeper]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Vorthos]]></category>
+		<category><![CDATA[Writing]]></category>
+		<category><![CDATA[Chandra]]></category>
+		<category><![CDATA[Critical Analysis]]></category>
+		<category><![CDATA[Diraden]]></category>
+		<category><![CDATA[Sam Keeper]]></category>
+		<category><![CDATA[The Purifying Fire]]></category>
+		<category><![CDATA[Velrav]]></category>
+
+		<guid isPermaLink="false">http://www.gatheringmagic.com/?p=73043</guid>
+		<description><![CDATA[<p><a href="http://www.gatheringmagic.com/samkeeper-02162017-chandras-story-diraden/"><img src="http://s3.gatheringmagic.com.s3.amazonaws.com/uploads/_AuthorImages/samkeeper_222x180.jpg" style="border: 0px; float: left; margin: 0px 10px 10px 0px;" /></a></p>Take a peek behind the Black-mana veil over Diraden as Sam Keeper further explores Chandra's story!]]></description>
+		</item>
+		<item>
+		<title>Rogue&#8217;s Alley: Frontier Hardened Scales</title>
+		<link>http://www.gatheringmagic.com/kevincrimin-02162017-rogues-alley-frontier-hardened-scales/</link>
+		<pubDate>Thu, 16 Feb 2017 15:56:49 +0000</pubDate>
+		<dc:creator><![CDATA[Kevin Crimin]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Constructed]]></category>
+		<category><![CDATA[Frontier]]></category>
+		<category><![CDATA[Hardened Scales]]></category>
+		<category><![CDATA[Kevin Crimin]]></category>
+		<category><![CDATA[Rogue's Alley]]></category>
+		<category><![CDATA[Video]]></category>
+		<category><![CDATA[YouTube]]></category>
+
+		<guid isPermaLink="false">http://www.gatheringmagic.com/?p=73049</guid>
+		<description><![CDATA[<p><a href="http://www.gatheringmagic.com/kevincrimin-02162017-rogues-alley-frontier-hardened-scales/"><img src="http://s3.gatheringmagic.com.s3.amazonaws.com/uploads/_AuthorImages/RoguesAlley_222x180.jpg" style="border: 0px; float: left; margin: 0px 10px 10px 0px;" /></a></p>Kevin heads back into Frontier with new resolve and a sweet Hardened Scales brew!]]></description>
+		</item>
+		<item>
+		<title>Art Book Reviews: A Review of Magic Art in 2016</title>
+		<link>http://www.gatheringmagic.com/mikelinnemann-02152017-art-book-reviews-a-review-of-magic-art-in-2016/</link>
+		<pubDate>Wed, 15 Feb 2017 16:00:41 +0000</pubDate>
+		<dc:creator><![CDATA[Mike Linnemann]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Review]]></category>
+		<category><![CDATA[Vorthos]]></category>
+		<category><![CDATA[art]]></category>
+		<category><![CDATA[Art Book]]></category>
+		<category><![CDATA[Art Book Review]]></category>
+		<category><![CDATA[Artists]]></category>
+		<category><![CDATA[Kaladesh Art Book]]></category>
+		<category><![CDATA[Mike Linnemann]]></category>
+		<category><![CDATA[Spectrum 23]]></category>
+
+		<guid isPermaLink="false">http://www.gatheringmagic.com/?p=73009</guid>
+		<description><![CDATA[<p><a href="http://www.gatheringmagic.com/mikelinnemann-02152017-art-book-reviews-a-review-of-magic-art-in-2016/"><img src="http://s3.gatheringmagic.com.s3.amazonaws.com/uploads/_AuthorImages/MikeLinnemann_222x180.jpg" style="border: 0px; float: left; margin: 0px 10px 10px 0px;" /></a></p>It's art books for days as Mike takes a look at the Kaladesh Art Book, Spectrum 23, and so much more!]]></description>
+		</item>
+		<item>
+		<title>Remeddling Chandra</title>
+		<link>http://www.gatheringmagic.com/jaykirkmanremeddling-chandra/</link>
+		<pubDate>Wed, 15 Feb 2017 15:59:54 +0000</pubDate>
+		<dc:creator><![CDATA[Jay Kirkman]]></dc:creator>
+				<category><![CDATA[Articles]]></category>
+		<category><![CDATA[Casual]]></category>
+		<category><![CDATA[Chandra Pyrogenius]]></category>
+		<category><![CDATA[Decklist]]></category>
+		<category><![CDATA[Design]]></category>
+		<category><![CDATA[Ertai's Meddling]]></category>
+		<category><![CDATA[Jay Kirkman]]></category>
+		<category><![CDATA[Planeswalker Deck]]></category>
+		<category><![CDATA[Preconstructed]]></category>
+
+		<guid isPermaLink="false">http://www.gatheringmagic.com/?p=73019</guid>
+		<description><![CDATA[<p><a href="http://www.gatheringmagic.com/jaykirkmanremeddling-chandra/"><img src="http://s3.amazonaws.com/s3.gatheringmagic.com/uploads/_AuthorImages/JayKirkman_222x180.jpg" style="border: 0px; float: left; margin: 0px 10px 10px 0px;" /></a></p>The flames are stoked as Jay takes another crack at meddling the Chandra Planeswalker deck, now with Aether Revolt!]]></description>
+		</item>
+	</channel>
+</rss>

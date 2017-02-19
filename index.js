@@ -29,7 +29,7 @@ var ITEM_FIELDS = [
   'link',
   'pubDate',
   'author',
-  'dc:author',
+  'dc:creator',
   'content:encoded',
   'enclosure'
 ];

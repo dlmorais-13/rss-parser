@@ -5,6 +5,7 @@
         "title": "My first Instant Article",
         "link": "https://localhost:8000",
         "pubDate": "Wed, 04 May 2016 06:53:45 GMT",
+        "dc:creator": "tobi",
         "content:encoded": "<b>Lorem</b> ipsum",
         "content": "Lorem ipsum",
         "contentSnippet": "Lorem ipsum",

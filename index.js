@@ -30,6 +30,7 @@ var ITEM_FIELDS = [
   'pubDate',
   'author',
   'dc:creator',
+  'a10:author',
   'content:encoded',
   'enclosure'
 ];

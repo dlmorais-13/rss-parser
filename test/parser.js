@@ -40,6 +40,10 @@ describe('Parser', function() {
     testParseForFile('gatheringmagic', 'rss', done);
   })
 
+  it('should parse mtgsalvation-articles', function(done) {
+    testParseForFile('mtgsalvation-articles', 'rss', done);
+  })
+
   it('should parse atom', function(done) {
     testParseForFile('reddit-atom', 'rss', done);
   })
